@@ -1,4 +1,17 @@
-.App {
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -25,7 +38,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #38c5ec;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +48,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
